@@ -1,0 +1,2 @@
+rm file.txt
+git add file.txt
